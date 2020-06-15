@@ -49,7 +49,7 @@ namespace webshop
                 };
             });
 
-            // configure DI for application services
+            // configure DI for application servicesss
             services.AddScoped<IUserService, UserService>();
         }
 
